@@ -2,7 +2,7 @@
 <hr>
 <h2 align="center">Languages and Technologies</h2>
 <h3>Mastered</h3>
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width=40>
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width=40 />
 <img src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" width=40>
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width=40>
 <img src="https://cdn.imgbin.com/17/24/8/imgbin-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded-1660937-html-dropdown-js-ewrW26TZwgRGD4kXJk4RaZMJE.jpg" width=40>
