@@ -8,7 +8,6 @@
 <p>I count "mastered" as completing an intermediate-advanced project.</p>
 <p>I linked each image to a relevant site.</p>
 
-
 <h5>Languages</h5>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a>
@@ -44,6 +43,7 @@
   <a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="windows" width="80" height="80"/></a>
 </p>
 	
+	
 <h3>Learning</h3>
 <p align="left"> 
    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="80" height="80"/></a>
@@ -55,6 +55,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/></a>
   <a href="https://python.langchain.com/en/latest/index.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hevtyfb5n5huqafmexo6" alt="langchain" width="80" height="80"/></a>
 </p>
+
+
+<p>(Sorry light mode users!)</p>
+
+
 <h2 align="center">Favorite Learning Resources</h2>
 <p align="left">
 	<p>These link to my account when possible</p>
