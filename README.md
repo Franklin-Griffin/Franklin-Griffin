@@ -19,6 +19,7 @@
 <h3>Learning (have coded in/completed a small project)</h3>
 <p align="left">
    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="40" height="40"/> </a>
 </p>
 <h3>Up Next (still learning/want to learn)</h3>
 <p align="left"> 
