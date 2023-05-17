@@ -15,6 +15,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="openai" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 <h3>Learning (have coded in/completed a small project)</h3>
 <p align="left">
@@ -29,5 +30,5 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://python.langchain.com/en/latest/index.html" style="font-size:40px;">🦜🔗</a>
+  <a href="https://python.langchain.com/en/latest/index.html"> <h3>🦜🔗</h3> </a>
 </p>
