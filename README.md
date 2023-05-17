@@ -1,4 +1,3 @@
-<style>img {width:40;display:inline;}</style>
 <h1 align="center">Hi, I'm Frankie!</h1>
 <hr>
 <h2 align="center">Languages and Technologies (completed a large project)</h2>
