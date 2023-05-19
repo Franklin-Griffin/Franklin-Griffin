@@ -65,9 +65,10 @@
 <p>Sorry light mode users! (if you even exist...)</p>
 
 
-<h2 align="center">Preferences</h2>
+<h2 align="center">Interests/Preferences</h2>
 <ul>
 	<li>Backend Work</li>
+	<li>AI/ML</li>
 	<li>Python</li>
 	<li>VSCode</li>
 </ul>
