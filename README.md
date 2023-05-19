@@ -11,7 +11,9 @@
 <h5>Languages</h5>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="80" height="80"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="c#" width="80" height="80"/></a>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="c" width="80" height="80"/></a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/lua/lua-original.svg" alt="lua" width="80" height="80"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/></a>
@@ -23,6 +25,7 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" alt="flask" width="80" height="80"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/></a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="openai" width="80" height="80"/></a>
+  <a href="https://fastapi.tiangolo.com/lo/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="80" height="80"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/></a>
    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/></a>
@@ -45,8 +48,8 @@
 <h3>Learning</h3>
 <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3629020-3030245.png" alt="mongodb" width="80" height="80"/></a>
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="80" height="80"/></a>
    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="80" height="80"/></a>
-  <a href="https://fastapi.tiangolo.com/lo/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="80" height="80"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="80"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="pandas" width="80" height="80"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/></a>
@@ -56,7 +59,15 @@
 </p>
 
 
-<p>(Sorry light mode users!)</p>
+<p>Sorry light mode users! (if you even exist...)</p>
+
+
+<h2 align="center">Preferences</h2>
+<ul>
+	<li>Backend Work</li>
+	<li>Python</li>
+	<li>VSCode</li>
+</ul>
 
 
 <h2 align="center">Favorite Learning Resources</h2>
@@ -67,3 +78,12 @@
   <a href="https://leetcode.com/frankiegriffin107/" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="udemy" width="80" height="80"/></a>
   <a href="https://www.udemy.com/" target="_blank" rel="noreferrer"><img src="https://companieslogo.com/img/orig/UDMY.D-ad1cfee4.png?t=1635531363" alt="udemy" width="80" height="80"/></a>
 </p>
+
+
+### :fire: My Stats :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Username-107&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Username-107&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
