@@ -8,7 +8,17 @@
 
 
 <h3>Mastered</h3>
-<p>I count "mastered" as completing an intermediate-advanced project.</p>
+<p>I define "mastering" something by doing at least one of the following:</p>
+<ol>
+	<li>Completing an intermediate/advanced project using the language/tool</li>
+	<li>Passing a certification test in which all 3 of the following are true:
+		<ul>
+			<li>I get 100%<li>
+			<li>Use of google is permitted<li>
+			<li>I do not need Google<li>
+	 	</ul>
+	</li>
+</ol>
 <p>I linked each image to a relevant site.</p>
 
 <h5>Languages</h5>
