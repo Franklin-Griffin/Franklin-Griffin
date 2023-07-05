@@ -52,7 +52,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/></a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="gcp" width="80" height="80"/></a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="vercel" width="80" height="80"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" alt="vercel" width="80" height="80"/></a>
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-4.svg" alt="neo4j" width="80" height="80"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034" alt="unity" width="80" height="80"/></a>
