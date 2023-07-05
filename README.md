@@ -96,7 +96,7 @@
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Username-107&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Username-107&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <div style="display: flex; justify-content: space-between;">
         <img src="https://certificates.cs50.io/730cc607-dd21-402a-a285-8c0aef44eae9.png?size=letter" alt="certificate for cs50x" style="width: 49%;">
