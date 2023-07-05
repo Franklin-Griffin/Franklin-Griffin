@@ -89,6 +89,7 @@
 <p align="left">
 	<p>These link to my account when possible</p>
   <a href="https://www.edx.org/learn/computer-programming?linked_from=sitenav&list=subjects" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EdX_newer_logo.svg/2560px-EdX_newer_logo.svg.png" alt="edx" width="80" height="80"/></a>
+
   <a href="https://www.codingame.com/profile/1cd2accf0b6cde9d27ebe7af25552e791840973" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-atXcV-5GLnp7AbIZlvUIUUQKpOI18rpvHadVyXlzNQfPubK4pkOqtZPTjflp5LAQs8:https://lookaside.fbsbx.com/lookaside/crawler/media/%3Fmedia_id%3D100064601835395&usqp=CAU" alt="codingame" width="80" height="80"/></a>
   <a href="https://leetcode.com/frankiegriffin107/" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="udemy" width="80" height="80"/></a>
   <a href="https://www.udemy.com/" target="_blank" rel="noreferrer"><img src="https://companieslogo.com/img/orig/UDMY.D-ad1cfee4.png?t=1635531363" alt="udemy" width="80" height="80"/></a>
@@ -96,3 +97,8 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Username-107&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://certificates.cs50.io/730cc607-dd21-402a-a285-8c0aef44eae9.png?size=letter" alt="certificate for cs50x" style="width: 49%;">
+        <img src="https://certificates.cs50.io/3ca0e951-18a5-4aea-8f04-f08eb7af0874.png?size=letter" alt="certificate for cs50ai" style="width: 49%;">
+    </div>
