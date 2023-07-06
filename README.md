@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Frankie!</h1>
 
 
-<p align="center">Co-founder <a href="https://formgptfrontend.vercel.app/" target="_blank">FormGPT</a> | frankiegriffin107@gmail.com</p>
+<p align="center">Co-founder <a href="https://formgptfrontend.vercel.app/" target="_blank">FormGPT</a> | frankiegriffin107@gmail.com/p>
+
 
 
 <h2 align="center">Languages and Technologies</h2>
@@ -97,6 +98,8 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Username-107&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=Username-107&color=blue)
 
 <div style="display: flex; justify-content: space-between;">
         <img src="https://certificates.cs50.io/730cc607-dd21-402a-a285-8c0aef44eae9.png?size=letter" alt="certificate for cs50x" style="width: 49%;">
