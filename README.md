@@ -75,3 +75,5 @@
 ![Franklin-Griffin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-Griffin&layout=compact&theme=dark)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Franklin-Griffin&theme=nord&no-bg=true&title=MultiLanguage,Commit,Repositories)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
