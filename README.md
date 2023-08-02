@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi, I'm Frankie!</h1>
 
-
-<p align="center">Co-founder <a href="https://formgptfrontend.vercel.app/" target="_blank">FormGPT</a> | frankiegriffin107@gmail.com</p>
+<p align="center">Founder/Main Engineer <a href="https://formgptfrontend.vercel.app/" target="_blank">FormGPT</a> | <a href="mailto:frankiegriffin107@gmail.com">frankiegriffin107@gmail.com</a></p>
 
 <h2>Languages</h2>
 <p align="left">
@@ -26,8 +25,11 @@
   <a href="https://fastapi.tiangolo.com/lo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?logo=fastapi&logoColor=white&style=for-the-badge" alt="fastapi" height="35" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="Tailwind" height="35" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge" /></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="35" /></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge" alt="tensorflow" height="35" /></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge" alt="tensorflow" height="35" />
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge" alt="docker" height="35" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge" alt="nextjs" height="35" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-%23007ACC.svg?logo=vite&logoColor=white&style=for-the-badge" alt="vite" height="35" /></a>
 </p>
 
 <h2>Other Technologies</h2>
