@@ -50,7 +50,7 @@
 <h2>Interests/Preferences</h2>
 <ul>
 	<li>Backend Work</li>
-	<li>AI/ML</li>
+	<li>AI/ML/Prompt Engineering</li>
 	<li>Python</li>
 	<li>VSCode</li>
 </ul>
