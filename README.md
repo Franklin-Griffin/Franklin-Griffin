@@ -25,6 +25,7 @@
   <a href="https://fastapi.tiangolo.com/lo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?logo=fastapi&logoColor=white&style=for-the-badge" alt="fastapi" height="35" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="Tailwind" height="35" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge" /></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" height="35" /></a>
+  <a href="https://langchain.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Langchain-%23000000.svg?logo=langchain&logoColor=white&style=for-the-badge" alt="LangChain" height="35" /></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white&style=for-the-badge" alt="tensorflow" height="35" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge" alt="docker" height="35" /></a>
