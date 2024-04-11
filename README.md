@@ -69,7 +69,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://certificates.cs50.io/730cc607-dd21-402a-a285-8c0aef44eae9.png?size=letter" alt="certificate for cs50x" style="width: 49%;">
   <img src="https://certificates.cs50.io/3ca0e951-18a5-4aea-8f04-f08eb7af0874.png?size=letter" alt="certificate for cs50ai" style="width: 49%;">
-  <img src="https://certificates.cs50.io/b3cb83e8-26c8-49db-a313-a649e352e27f.png?size=letter" alt="certificate for cs50ai" style="width: 49%;">
+  <img src="https://certificates.cs50.io/b3cb83e8-26c8-49db-a313-a649e352e27f.png?size=letter" alt="certificate for puzzle day 2024: 8/9" style="width: 49%;">
 </div>
 
 ![Franklin-Griffin's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Franklin-Griffin&theme=dark&mode=weekly)
