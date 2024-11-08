@@ -15,6 +15,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript" height="35" /></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="html5" height="35" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="css3" height="35" /></a>
+TypeScript, Swift
 </p>
 
 <h2>Frameworks/Libraries/Packages</h2>
@@ -31,6 +32,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge" alt="docker" height="35" /></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge" alt="nextjs" height="35" /></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-%23007ACC.svg?logo=vite&logoColor=white&style=for-the-badge" alt="vite" height="35" /></a>
+SwiftUI
 </p>
 
 <h2>Other Technologies</h2>
