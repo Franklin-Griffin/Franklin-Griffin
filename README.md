@@ -31,7 +31,6 @@ TypeScript, Swift
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge" alt="docker" height="35" /></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge" alt="nextjs" height="35" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-%23007ACC.svg?logo=vite&logoColor=white&style=for-the-badge" alt="vite" height="35" /></a>
 SwiftUI
 </p>
 
