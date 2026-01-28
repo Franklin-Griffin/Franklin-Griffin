@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Frankie!</h1>
 
-<p align="center">Founder/CTO <a href="https://formgptfrontend.vercel.app/" target="_blank">FormGPT</a>, <a href="https://lexplora.app" target="_blank">Lexplora</a> | <a href="mailto:frankiegriffin107@gmail.com">frankiegriffin107@gmail.com</a> | <a href="https://www.linkedin.com/in/franklin-griffin-347232287/">LinkedIn</a> | <a href="https://leetcode.com/franklingriffin/">Leetcode</p>
+<p align="center">Founder/CTO <a href="https://formgptfrontend.vercel.app/" target="_blank">FormGPT</a>, <a href="https://lexplora.app" target="_blank">Lexplora</a> | <a href="https://www.linkedin.com/in/franklin-griffin-347232287/">LinkedIn</a> | <a href="https://leetcode.com/franklingriffin/">Leetcode</p>
 
 <h2>Languages</h2>
 <p align="left">
